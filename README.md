@@ -5,8 +5,6 @@
 
 🌱 I’m currently learning **Cloud Infrastructure**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=IshaaS&label=Profile%20views&color=0e75b6&style=flat" alt="IshaaS" /> </p>
-
 📫 How to reach me **ishsastu@iu.edu**
 
 <h3 align="left">Connect with me:</h3>
