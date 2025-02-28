@@ -68,7 +68,7 @@
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white)
 
 ---
-
+<!-- 
 ## 📊 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IshaaS&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -76,6 +76,7 @@
 </p>
 
 ---
+-->
 
 ## 🎯 **Let's Connect!**
 💬 Feel free to reach out for collaboration, job opportunities, or tech discussions!  
