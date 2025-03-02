@@ -13,11 +13,12 @@
 <a href="https://www.linkedin.com/in/isha-sasturkar/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishaSasturkar" height="30" width="40" />
 </a>
+<!-- 
 <a href="https://leetcode.com/u/ishaSasturkar/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ishaSasturkar" height="30" width="40" />
 </a>
 </p>
-
+--!>
 ---
 
 ## 🛠 **Tech Stack & Tools**  
