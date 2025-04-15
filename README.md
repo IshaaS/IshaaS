@@ -4,13 +4,13 @@
 🔭 **Pursuing Master's in Computer Science** at Indiana University, Bloomington.  
 💡 Passionate about building **scalable, efficient, and innovative software solutions**.  
 🌱 Currently learning **Cloud Infrastructure**.  
-📫 Reach me at **ishsastu@iu.edu**.  
+📫 Reach me at **isha.s.sasturkar@gmail.com**.  
 
 ---
 
 ## 🌐 **Connect with Me:**
 <p align="left">
-<a href="https://www.linkedin.com/in/isha-sasturkar/" target="blank">
+<a href="https://www.linkedin.com/in/isha-s-sasturkar/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishaSasturkar" height="30" width="40" />
 </a>
 <!-- 
@@ -79,7 +79,7 @@
 
 ## 🎯 **Let's Connect!**
 💬 Feel free to reach out for collaboration, job opportunities, or tech discussions!  
-📩 **Email:** ishsastu@iu.edu  
+📩 **Email:** isha.s.sasturkar@gmail.com  
 🌐 **Portfolio:** https://ishaas.github.io/portfolio/
 
 ---
