@@ -7,18 +7,6 @@
 📫 Reach me at **isha.s.sasturkar@gmail.com**.  
 
 ---
-
-## 🌐 **Connect with Me:**
-<p align="left">
-<a href="https://www.linkedin.com/in/isha-s-sasturkar/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishaSasturkar" height="30" width="40" />
-</a>
-
-<a href="https://leetcode.com/u/ishaSasturkar/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ishaSasturkar" height="30" width="40" />
-</a>
-</p>
-
 ## 🛠 **Tech Stack & Tools**  
 
 ### 💻 **Languages**
@@ -66,15 +54,26 @@
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white)
 
 ---
-<!-- 
 ## 📊 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IshaaS&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IshaaS&theme=radical" alt="GitHub Streak" />
 </p>
-
 ---
--->
+
+## **LinkedIn:**
+<p align="left">
+<a href="https://www.linkedin.com/in/isha-s-sasturkar/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishaSasturkar" height="30" width="40" />
+</a>
+</p>
+
+## **LeetCode:**
+<p align="left">
+<a href="https://leetcode.com/u/ishaSasturkar/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ishaSasturkar" height="30" width="40" />
+</a>
+</p>
 
 ## 🎯 **Let's Connect!**
 💬 Feel free to reach out for collaboration, job opportunities, or tech discussions!  
