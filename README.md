@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Isha</h1>
 <h3 align="center">A passionate Full Stack Software Developer based in the USA</h3>
 
-🔭 **Recently graduated with Master's in Computer Science** from Indiana University, Bloomington.  
+🔭 Recently graduated with **Master's in Computer Science** from Indiana University, Bloomington.  
 💡 Passionate about building **scalable, efficient, and innovative software solutions**.  
 🌱 Currently learning **Cloud Infrastructure**.  
 📫 Reach me at **isha.s.sasturkar@gmail.com**.  
@@ -13,12 +13,11 @@
 <a href="https://www.linkedin.com/in/isha-s-sasturkar/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishaSasturkar" height="30" width="40" />
 </a>
-<!-- 
+
 <a href="https://leetcode.com/u/ishaSasturkar/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ishaSasturkar" height="30" width="40" />
 </a>
 </p>
---!>
 
 ## 🛠 **Tech Stack & Tools**  
 
