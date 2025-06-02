@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Isha</h1>
-<h3 align="center">A passionate Full Stack Software Developer based in the USA</h3>
+<img src="assets/my-banner.png" alt="My banner"/>
 
 🔭 Recently graduated with **Master's in Computer Science** from Indiana University, Bloomington.  
 💡 Passionate about building **scalable, efficient, and innovative software solutions**.  
