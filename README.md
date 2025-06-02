@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Isha</h1>
 <h3 align="center">A passionate Full Stack Software Developer based in the USA</h3>
 
-🔭 **Pursuing Master's in Computer Science** at Indiana University, Bloomington.  
+🔭 **Recently graduated with Master's in Computer Science** from Indiana University, Bloomington.  
 💡 Passionate about building **scalable, efficient, and innovative software solutions**.  
 🌱 Currently learning **Cloud Infrastructure**.  
 📫 Reach me at **isha.s.sasturkar@gmail.com**.  
@@ -80,7 +80,6 @@
 ## 🎯 **Let's Connect!**
 💬 Feel free to reach out for collaboration, job opportunities, or tech discussions!  
 📩 **Email:** isha.s.sasturkar@gmail.com  
-🌐 **Portfolio:** https://ishaas.github.io/portfolio/
 
 ---
 
