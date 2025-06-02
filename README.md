@@ -53,14 +53,6 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white)
 
----
-## 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IshaaS&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IshaaS&theme=radical" alt="GitHub Streak" />
-</p>
----
-
 ## **LinkedIn:**
 <p align="left">
 <a href="https://www.linkedin.com/in/isha-s-sasturkar/" target="blank">
