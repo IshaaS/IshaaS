@@ -1,4 +1,4 @@
-<img src="assets/my-banner.png" alt="My banner"/>
+<img src="Hi! I am Isha.png" alt="My banner"/>
 
 🔭 Recently graduated with **Master's in Computer Science** from Indiana University, Bloomington.  
 💡 Passionate about building **scalable, efficient, and innovative software solutions**.  
