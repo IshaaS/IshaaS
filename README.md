@@ -55,7 +55,7 @@
 
 ## 🎯 **Let's Connect!**
 💬 Feel free to reach out for collaboration, job opportunities, or tech discussions!  
-📩 **Email:** isha.s.sasturkar@gmail.com  
+📩 **Email:** ishaa.sasturkar@gmail.com  
 
 ---
 
