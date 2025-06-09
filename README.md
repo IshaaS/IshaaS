@@ -3,7 +3,7 @@
 🔭 Recently graduated with **Master's in Computer Science** from Indiana University, Bloomington.  
 💡 Passionate about building **scalable, efficient, and innovative software solutions**.  
 🌱 Currently learning **Cloud Infrastructure**.  
-📫 Reach me at **ishaa.sasturkar@gmail.com**.  
+📫 Reach me at **ishsastu@iu.edu**.  
 
 ---
 ## 🛠 **Tech Stack & Tools**  
@@ -55,7 +55,7 @@
 
 ## 🎯 **Let's Connect!**
 💬 Feel free to reach out for collaboration, job opportunities, or tech discussions!  
-📩 **Email:** ishaa.sasturkar@gmail.com  
+📩 **Email:** ishsastu@iu.edu 
 
 ---
 
