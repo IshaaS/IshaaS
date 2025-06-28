@@ -57,5 +57,9 @@
 💬 Feel free to reach out for collaboration, job opportunities, or tech discussions!  
 📩 **Email:** ishsastu@iu.edu 
 
+![](https://komarev.com/ghpvc/?username=IshaaS)
 ---
+
+
+
 
