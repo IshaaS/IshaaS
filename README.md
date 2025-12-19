@@ -1,7 +1,7 @@
 <img src="my_cover_photo.png" alt="My banner"/>
 
 🔭 Recently graduated with **Master's in Computer Science** from Indiana University, Bloomington.  
-💡 Passionate about building **Reliable & Scalable Backend Systems and efficient & innovative software solutions**.  
+💡 Passionate about building **Reliable & Scalable Backend Systems and Efficient & Innovative Software Solutions**.  
 🌱 Currently learning **Cloud Infrastructure**.  
 📫 Reach me at **ishaa.sasturkar@gmail.com**.  
 
