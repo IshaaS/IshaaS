@@ -1,12 +1,16 @@
 <img src="my_cover_photo.png" alt="My banner"/>
 
+
+<H1 align="left">Hi, I am Isha!</H1>
+
+
 🔭 Recently graduated with **Master's in Computer Science** from Indiana University, Bloomington.  
 💡 Passionate about building **Secure & Scalable Backend Systems and Efficient & Innovative Software Solutions**.  
 🌱 Currently learning **Cloud Infrastructure**.  
 📫 Reach me at **ishaa.sasturkar@gmail.com**.  
 
 ---
-## 🛠 **Tech Stack & Tools**  
+<H1 align="left">Tech Stack & Tools</H1>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -39,22 +43,23 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white)
 
-## **LinkedIn:**
+<H1 align="left">LinkedIn</H1>
 <p align="left">
 <a href="https://www.linkedin.com/in/isha-s-sasturkar/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishaSasturkar" height="30" width="40" />
 </a>
 </p>
 
-## **LeetCode:**
+<H1 align="left">LeetCode</H1>
 <p align="left">
 <a href="https://leetcode.com/u/ishaSasturkar/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ishaSasturkar" height="30" width="40" />
 </a>
 </p>
 
-## 🎯 **Let's Connect!**
-💬 Feel free to reach out for collaboration, job opportunities, or tech discussions!  
+<H1 align="left">Let's Connect!</H1>
+💬 Feel free to reach out for collaboration, job opportunities, or tech discussions!
+
 📩 **Email:** ishaa.sasturkar@gmail.com
 
 ---
