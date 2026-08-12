@@ -1,13 +1,12 @@
 <img src="1786485712434.jpeg" alt="My banner"/>
 
 
-<H1 align="left">Hi, I am Isha!</H1>
+<H1 align="left">Hi, I am Isha! AI Software Engineer | 3+ Years Experience </H1>
 
 
 🔭 Recently graduated with **Master's in Computer Science** from Indiana University, Bloomington.  
-💡 Passionate about building **Secure & Scalable Backend Systems and Efficient & Innovative Software Solutions**.  
-🌱 Currently learning **Cloud Infrastructure**.  
-📫 Reach me at **ishaa.sasturkar@gmail.com**.  
+💡 Passionate about Generative AI & LLMs, Agentic AI, RAG.
+📫 Reach me at **sasturkari@gmail.com**.  
 
 ---
 <H1 align="left">Tech Stack & Tools</H1>
@@ -45,7 +44,7 @@
 
 <H1 align="left">LinkedIn</H1>
 <p align="left">
-<a href="https://www.linkedin.com/in/isha-s-sasturkar/" target="blank">
+<a href="https://www.linkedin.com/in/isha-sm-s/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishaSasturkar" height="30" width="40" />
 </a>
 </p>
@@ -60,7 +59,7 @@
 <H1 align="left">Let's Connect!</H1>
 💬 Feel free to reach out for collaboration, job opportunities, or tech discussions!
 
-📩 **Email:** ishaa.sasturkar@gmail.com
+📩 **Email:** sasturkari@gmail.com
 
 ---
 
