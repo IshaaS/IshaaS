@@ -1,4 +1,4 @@
-<img src="my_cover_photo.png" alt="My banner"/>
+<img src="1786485712434.jpeg" alt="My banner"/>
 
 
 <H1 align="left">Hi, I am Isha!</H1>
