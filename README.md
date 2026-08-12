@@ -5,7 +5,7 @@
 
 
 🔭 Recently graduated with **Master's in Computer Science** from Indiana University, Bloomington.  
-💡 Passionate about Generative AI & LLMs, Agentic AI, RAG.
+💡 Passionate about Generative AI & LLMs, Agentic AI, RAG.  
 📫 Reach me at **sasturkari@gmail.com**.  
 
 ---
